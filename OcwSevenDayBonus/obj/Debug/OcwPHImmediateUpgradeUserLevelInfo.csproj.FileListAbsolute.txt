@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\bin\Debug\OcwPHImmediateUpgradeUserLevelInfo.exe.config
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\bin\Debug\OcwPHImmediateUpgradeUserLevelInfo.exe
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\bin\Debug\OcwPHImmediateUpgradeUserLevelInfo.pdb
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\obj\Debug\OcwPHImmediateUpgradeUserLevelInfo.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\obj\Debug\OcwPHImmediateUpgradeUserLevelInfo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\obj\Debug\OcwPHImmediateUpgradeUserLevelInfo.exe
+C:\Users\admin\source\repos\OCW_PH_ImmediateUpgradeUserLevelInfo\OcwSevenDayBonus\obj\Debug\OcwPHImmediateUpgradeUserLevelInfo.pdb
